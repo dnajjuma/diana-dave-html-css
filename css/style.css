@@ -12,9 +12,9 @@
   align-items: center;
   padding-inline: 300px;
 }
-#img-div {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+#image { 
+    align-content: center;
+    max-width: 100%;
+    display: block;
+    height: auto;
 }
